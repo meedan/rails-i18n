@@ -37,7 +37,7 @@ mk:
     - Сабота
     formats:
       default: "%d/%m/%Y"
-      long: "%B %e, %Y"
+      long: "%e %B %Y"
       short: "%e %b"
     month_names:
     - 
