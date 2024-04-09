@@ -37,7 +37,7 @@ mk:
     - Сабота
     formats:
       default: "%d/%m/%Y"
-      long: "%B %e, %Y"
+      long: "%e %B %Y"
       short: "%e %b"
     month_names:
     - 
@@ -197,6 +197,6 @@ mk:
     am: АМ
     formats:
       default: "%a %b %d %H:%M:%S %Z %Y"
-      long: "%B %d, %Y %H:%M"
+      long: "%d %B %Y %H:%M"
       short: "%d %b %H:%M"
     pm: ПМ
