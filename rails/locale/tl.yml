@@ -14,7 +14,7 @@ tl:
     - Biy
     - Sab
     abbr_month_names:
-    - 
+    -
     - Ene
     - Peb
     - Mar
@@ -40,7 +40,7 @@ tl:
       long: ika-%d ng %B, %Y
       short: ika-%d ng %b
     month_names:
-    - 
+    -
     - Enero
     - Pebrero
     - Marso
@@ -196,7 +196,7 @@ tl:
   time:
     am: AM
     formats:
-      default: "%A, ika-%d ng %B ng %Y %H:%M:%S %z"
+      default: "%B %d, %Y %H:%M"
       long: ika-%d ng %B ng %Y %H:%M
       short: "%d ng %b %H:%M"
     pm: PM
