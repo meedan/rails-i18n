@@ -196,7 +196,7 @@ tl:
   time:
     am: AM
     formats:
-      default: "%B %d, %Y %H:%M"
-      long: ika-%d ng %B ng %Y %H:%M
+      default: "%A, ika-%d ng %B ng %Y %H:%M:%S %z"
+      long: "%B %d, %Y %H:%M"
       short: "%d ng %b %H:%M"
     pm: PM
